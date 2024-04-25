@@ -1,0 +1,34 @@
+# plots
+matplotlib
+seaborn
+
+# Math
+scipy
+numpy
+pandas
+numpy
+scikit-learn
+
+# Jupyter
+notebook
+
+# PyTorch
+torch==2.2.2
+# torchaudio
+# torchvision
+torchtext==0.17.2
+# tensorboard
+
+# For IDE if you need
+# spyder
+
+# Lamma
+# pymystem3
+
+# Other
+# openpyxl
+requests 
+spacy
+nltk
+rouge
+tqdm
